@@ -45,7 +45,7 @@ def load_model():
 async def extract_time_api(data: InputData):
     """Endpoint principal para la conversión de texto a hora digital."""
     
-    if data.api_key != "TU_CLAVE_SECRETA":
+    if data.api_key != "panceta123":
          raise HTTPException(status_code=401, detail="API Key no válida")
     
     instruction = f"Convierte esta hora de texto a formato digital de 24 horas: {data.texto_hora}"
