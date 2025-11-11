@@ -1,0 +1,202 @@
+{"instruction": "¿cómo se dice esta hora?: las diez menos veintisiete a.m.", "output": "09:33"}
+{"instruction": "escribe la hora en palabras: las nueve con treinta y tres a.m.", "output": "09:33"}
+{"instruction": "ahora mismo son las: nueve horas y treinta y tres minutos", "output": "09:33"}
+{"instruction": "escribe la hora en palabras: las diez menos trece de la mañana", "output": "09:47"}
+{"instruction": "ahora mismo son las: las nueve y cuarenta y siete de la mañana", "output": "09:47"}
+{"instruction": "ahora mismo son las: nueve horas y cuarenta y siete minutos", "output": "09:47"}
+{"instruction": "ahora mismo son las: las cinco con dieciseis a.m.", "output": "05:16"}
+{"instruction": "convierte esta hora en texto: las cinco y dieciseis a.m.", "output": "05:16"}
+{"instruction": "¿cómo se dice esta hora?: cinco horas y dieciseis minutos", "output": "05:16"}
+{"instruction": "¿cómo se dice esta hora?: las diez menos diecisiete a.m.", "output": "09:43"}
+{"instruction": "convierte esta hora en texto: las nueve con cuarenta y tres a.m.", "output": "09:43"}
+{"instruction": "escribe la hora en palabras: nueve horas y cuarenta y tres minutos", "output": "09:43"}
+{"instruction": "convierte esta hora en texto: las cuatro menos catorce a.m.", "output": "03:46"}
+{"instruction": "escribe la hora en palabras: las tres con cuarenta y seis a.m.", "output": "03:46"}
+{"instruction": "¿cómo se dice esta hora?: tres horas y cuarenta y seis minutos", "output": "03:46"}
+{"instruction": "ahora mismo son las: las ocho menos veintidos de la tarde", "output": "19:38"}
+{"instruction": "escribe la hora en palabras: las siete con treinta y ocho de la tarde", "output": "19:38"}
+{"instruction": "¿cómo se dice esta hora?: diecinueve horas y treinta y ocho minutos", "output": "19:38"}
+{"instruction": "escribe la hora en palabras: las doce y dieciocho de la noche", "output": "00:18"}
+{"instruction": "convierte esta hora en texto: las doce con dieciocho de la noche", "output": "00:18"}
+{"instruction": "escribe la hora en palabras: cero horas y dieciocho minutos", "output": "00:18"}
+{"instruction": "ahora mismo son las: las tres en punto del mediodía", "output": "15:00"}
+{"instruction": "escribe la hora en palabras: las tres con cero del mediodía", "output": "15:00"}
+{"instruction": "convierte esta hora en texto: quince horas y cero minutos", "output": "15:00"}
+{"instruction": "convierte esta hora en texto: las cuatro menos trece de la noche", "output": "03:47"}
+{"instruction": "ahora mismo son las: las tres con cuarenta y siete de la noche", "output": "03:47"}
+{"instruction": "escribe la hora en palabras: tres horas y cuarenta y siete minutos", "output": "03:47"}
+{"instruction": "escribe la hora en palabras: las nueve con catorce de la mañana", "output": "09:14"}
+{"instruction": "escribe la hora en palabras: las nueve y catorce de la mañana", "output": "09:14"}
+{"instruction": "¿cómo se dice esta hora?: nueve horas y catorce minutos", "output": "09:14"}
+{"instruction": "ahora mismo son las: las siete y cinco a.m.", "output": "07:05"}
+{"instruction": "escribe la hora en palabras: las siete y cinco a.m.", "output": "07:05"}
+{"instruction": "escribe la hora en palabras: siete horas y cinco minutos", "output": "07:05"}
+{"instruction": "¿cómo se dice esta hora?: las cinco y dieciocho a.m.", "output": "05:18"}
+{"instruction": "ahora mismo son las: las cinco con dieciocho a.m.", "output": "05:18"}
+{"instruction": "¿cómo se dice esta hora?: cinco horas y dieciocho minutos", "output": "05:18"}
+{"instruction": "escribe la hora en palabras: las diez menos veintinueve de la mañana", "output": "09:31"}
+{"instruction": "¿cómo se dice esta hora?: las nueve con treinta y uno de la mañana", "output": "09:31"}
+{"instruction": "¿cómo se dice esta hora?: nueve horas y treinta y uno minutos", "output": "09:31"}
+{"instruction": "ahora mismo son las: las uno menos veintinueve de la noche", "output": "00:31"}
+{"instruction": "escribe la hora en palabras: las doce con treinta y uno de la noche", "output": "00:31"}
+{"instruction": "ahora mismo son las: cero horas y treinta y uno minutos", "output": "00:31"}
+{"instruction": "¿cómo se dice esta hora?: las seis con diez a.m.", "output": "06:10"}
+{"instruction": "escribe la hora en palabras: las seis y diez a.m.", "output": "06:10"}
+{"instruction": "¿cómo se dice esta hora?: seis horas y diez minutos", "output": "06:10"}
+{"instruction": "¿cómo se dice esta hora?: las ocho y veinticuatro de la mañana", "output": "08:24"}
+{"instruction": "escribe la hora en palabras: las ocho con veinticuatro de la mañana", "output": "08:24"}
+{"instruction": "escribe la hora en palabras: ocho horas y veinticuatro minutos", "output": "08:24"}
+{"instruction": "convierte esta hora en texto: las tres menos dos p.m.", "output": "14:58"}
+{"instruction": "convierte esta hora en texto: las dos con cincuenta y ocho p.m.", "output": "14:58"}
+{"instruction": "convierte esta hora en texto: catorce horas y cincuenta y ocho minutos", "output": "14:58"}
+{"instruction": "ahora mismo son las: las seis menos trece de la noche", "output": "05:47"}
+{"instruction": "escribe la hora en palabras: las cinco con cuarenta y siete de la noche", "output": "05:47"}
+{"instruction": "ahora mismo son las: cinco horas y cuarenta y siete minutos", "output": "05:47"}
+{"instruction": "¿cómo se dice esta hora?: las ocho menos dos p.m.", "output": "19:58"}
+{"instruction": "¿cómo se dice esta hora?: las siete y cincuenta y ocho p.m.", "output": "19:58"}
+{"instruction": "escribe la hora en palabras: diecinueve horas y cincuenta y ocho minutos", "output": "19:58"}
+{"instruction": "ahora mismo son las: las seis y diez a.m.", "output": "06:10"}
+{"instruction": "convierte esta hora en texto: las seis y diez a.m.", "output": "06:10"}
+{"instruction": "convierte esta hora en texto: seis horas y diez minutos", "output": "06:10"}
+{"instruction": "convierte esta hora en texto: las once menos catorce a.m.", "output": "10:46"}
+{"instruction": "ahora mismo son las: las diez y cuarenta y seis a.m.", "output": "10:46"}
+{"instruction": "ahora mismo son las: diez horas y cuarenta y seis minutos", "output": "10:46"}
+{"instruction": "ahora mismo son las: las seis menos tres p.m.", "output": "17:57"}
+{"instruction": "convierte esta hora en texto: las cinco con cincuenta y siete p.m.", "output": "17:57"}
+{"instruction": "escribe la hora en palabras: diecisiete horas y cincuenta y siete minutos", "output": "17:57"}
+{"instruction": "escribe la hora en palabras: las dos menos ocho a.m.", "output": "01:52"}
+{"instruction": "escribe la hora en palabras: las uno y cincuenta y dos a.m.", "output": "01:52"}
+{"instruction": "escribe la hora en palabras: uno horas y cincuenta y dos minutos", "output": "01:52"}
+{"instruction": "¿cómo se dice esta hora?: las uno menos diecinueve a.m.", "output": "00:41"}
+{"instruction": "convierte esta hora en texto: las doce y cuarenta y uno a.m.", "output": "00:41"}
+{"instruction": "convierte esta hora en texto: cero horas y cuarenta y uno minutos", "output": "00:41"}
+{"instruction": "ahora mismo son las: las uno con veinte de la noche", "output": "01:20"}
+{"instruction": "ahora mismo son las: las uno y veinte de la noche", "output": "01:20"}
+{"instruction": "escribe la hora en palabras: uno horas y veinte minutos", "output": "01:20"}
+{"instruction": "convierte esta hora en texto: las nueve menos cuatro a.m.", "output": "08:56"}
+{"instruction": "¿cómo se dice esta hora?: las ocho y cincuenta y seis a.m.", "output": "08:56"}
+{"instruction": "escribe la hora en palabras: ocho horas y cincuenta y seis minutos", "output": "08:56"}
+{"instruction": "escribe la hora en palabras: las cinco menos dieciocho de la tarde", "output": "16:42"}
+{"instruction": "convierte esta hora en texto: las cuatro y cuarenta y dos de la tarde", "output": "16:42"}
+{"instruction": "¿cómo se dice esta hora?: dieciseis horas y cuarenta y dos minutos", "output": "16:42"}
+{"instruction": "¿cómo se dice esta hora?: las uno y veinticuatro de la noche", "output": "01:24"}
+{"instruction": "¿cómo se dice esta hora?: las uno y veinticuatro de la noche", "output": "01:24"}
+{"instruction": "¿cómo se dice esta hora?: uno horas y veinticuatro minutos", "output": "01:24"}
+{"instruction": "¿cómo se dice esta hora?: las seis menos cuarto de la noche", "output": "05:45"}
+{"instruction": "convierte esta hora en texto: las cinco con cuarenta y cinco de la noche", "output": "05:45"}
+{"instruction": "escribe la hora en palabras: cinco horas y cuarenta y cinco minutos", "output": "05:45"}
+{"instruction": "ahora mismo son las: las cuatro y catorce p.m.", "output": "16:14"}
+{"instruction": "ahora mismo son las: las cuatro y catorce p.m.", "output": "16:14"}
+{"instruction": "¿cómo se dice esta hora?: dieciseis horas y catorce minutos", "output": "16:14"}
+{"instruction": "convierte esta hora en texto: las seis con cuarto de la mañana", "output": "06:15"}
+{"instruction": "¿cómo se dice esta hora?: las seis y quince de la mañana", "output": "06:15"}
+{"instruction": "¿cómo se dice esta hora?: seis horas y quince minutos", "output": "06:15"}
+{"instruction": "¿cómo se dice esta hora?: las once con catorce a.m.", "output": "23:14"}
+{"instruction": "convierte esta hora en texto: las once con catorce a.m.", "output": "23:14"}
+{"instruction": "convierte esta hora en texto: veintitres horas y catorce minutos", "output": "23:14"}
+{"instruction": "ahora mismo son las: las ocho con once a.m.", "output": "20:11"}
+{"instruction": "¿cómo se dice esta hora?: las ocho con once a.m.", "output": "20:11"}
+{"instruction": "ahora mismo son las: veinte horas y once minutos", "output": "20:11"}
+{"instruction": "escribe la hora en palabras: las seis con diecinueve de la mañana", "output": "06:19"}
+{"instruction": "escribe la hora en palabras: las seis y diecinueve de la mañana", "output": "06:19"}
+{"instruction": "escribe la hora en palabras: seis horas y diecinueve minutos", "output": "06:19"}
+{"instruction": "convierte esta hora en texto: las siete menos doce de la tarde", "output": "18:48"}
+{"instruction": "ahora mismo son las: las seis y cuarenta y ocho de la tarde", "output": "18:48"}
+{"instruction": "convierte esta hora en texto: dieciocho horas y cuarenta y ocho minutos", "output": "18:48"}
+{"instruction": "ahora mismo son las: las siete menos cuarto p.m.", "output": "18:45"}
+{"instruction": "convierte esta hora en texto: las seis y cuarenta y cinco p.m.", "output": "18:45"}
+{"instruction": "ahora mismo son las: dieciocho horas y cuarenta y cinco minutos", "output": "18:45"}
+{"instruction": "ahora mismo son las: las doce y cuatro de la noche", "output": "00:04"}
+{"instruction": "convierte esta hora en texto: las doce con cuatro de la noche", "output": "00:04"}
+{"instruction": "¿cómo se dice esta hora?: cero horas y cuatro minutos", "output": "00:04"}
+{"instruction": "¿cómo se dice esta hora?: las once con siete de la noche", "output": "23:07"}
+{"instruction": "escribe la hora en palabras: las once y siete de la noche", "output": "23:07"}
+{"instruction": "ahora mismo son las: veintitres horas y siete minutos", "output": "23:07"}
+{"instruction": "ahora mismo son las: las tres menos cinco de la noche", "output": "02:55"}
+{"instruction": "escribe la hora en palabras: las dos con cincuenta y cinco de la noche", "output": "02:55"}
+{"instruction": "convierte esta hora en texto: dos horas y cincuenta y cinco minutos", "output": "02:55"}
+{"instruction": "convierte esta hora en texto: las cuatro menos catorce a.m.", "output": "03:46"}
+{"instruction": "convierte esta hora en texto: las tres con cuarenta y seis a.m.", "output": "03:46"}
+{"instruction": "escribe la hora en palabras: tres horas y cuarenta y seis minutos", "output": "03:46"}
+{"instruction": "convierte esta hora en texto: las once menos cuarto a.m.", "output": "10:45"}
+{"instruction": "¿cómo se dice esta hora?: las diez y cuarenta y cinco a.m.", "output": "10:45"}
+{"instruction": "ahora mismo son las: diez horas y cuarenta y cinco minutos", "output": "10:45"}
+{"instruction": "¿cómo se dice esta hora?: las uno menos doce de la noche", "output": "00:48"}
+{"instruction": "¿cómo se dice esta hora?: las doce y cuarenta y ocho de la noche", "output": "00:48"}
+{"instruction": "ahora mismo son las: cero horas y cuarenta y ocho minutos", "output": "00:48"}
+{"instruction": "escribe la hora en palabras: las doce menos veinte de la noche", "output": "23:40"}
+{"instruction": "escribe la hora en palabras: las once con cuarenta de la noche", "output": "23:40"}
+{"instruction": "ahora mismo son las: veintitres horas y cuarenta minutos", "output": "23:40"}
+{"instruction": "ahora mismo son las: las uno menos uno de la tarde", "output": "12:59"}
+{"instruction": "convierte esta hora en texto: las doce con cincuenta y nueve de la tarde", "output": "12:59"}
+{"instruction": "¿cómo se dice esta hora?: doce horas y cincuenta y nueve minutos", "output": "12:59"}
+{"instruction": "¿cómo se dice esta hora?: las ocho menos veintidos a.m.", "output": "07:38"}
+{"instruction": "convierte esta hora en texto: las siete y treinta y ocho a.m.", "output": "07:38"}
+{"instruction": "¿cómo se dice esta hora?: siete horas y treinta y ocho minutos", "output": "07:38"}
+{"instruction": "¿cómo se dice esta hora?: las ocho menos veintinueve de la mañana", "output": "07:31"}
+{"instruction": "convierte esta hora en texto: las siete y treinta y uno de la mañana", "output": "07:31"}
+{"instruction": "escribe la hora en palabras: siete horas y treinta y uno minutos", "output": "07:31"}
+{"instruction": "escribe la hora en palabras: las cinco menos dieciocho de la noche", "output": "04:42"}
+{"instruction": "¿cómo se dice esta hora?: las cuatro y cuarenta y dos de la noche", "output": "04:42"}
+{"instruction": "escribe la hora en palabras: cuatro horas y cuarenta y dos minutos", "output": "04:42"}
+{"instruction": "escribe la hora en palabras: las siete y cinco p.m.", "output": "19:05"}
+{"instruction": "ahora mismo son las: las siete y cinco p.m.", "output": "19:05"}
+{"instruction": "convierte esta hora en texto: diecinueve horas y cinco minutos", "output": "19:05"}
+{"instruction": "ahora mismo son las: las dos menos uno a.m.", "output": "01:59"}
+{"instruction": "convierte esta hora en texto: las uno y cincuenta y nueve a.m.", "output": "01:59"}
+{"instruction": "¿cómo se dice esta hora?: uno horas y cincuenta y nueve minutos", "output": "01:59"}
+{"instruction": "ahora mismo son las: las uno con ocho de la tarde", "output": "13:08"}
+{"instruction": "convierte esta hora en texto: las uno con ocho de la tarde", "output": "13:08"}
+{"instruction": "¿cómo se dice esta hora?: trece horas y ocho minutos", "output": "13:08"}
+{"instruction": "convierte esta hora en texto: las diez y once a.m.", "output": "22:11"}
+{"instruction": "¿cómo se dice esta hora?: las diez y once a.m.", "output": "22:11"}
+{"instruction": "¿cómo se dice esta hora?: veintidos horas y once minutos", "output": "22:11"}
+{"instruction": "convierte esta hora en texto: las ocho menos tres de la mañana", "output": "07:57"}
+{"instruction": "convierte esta hora en texto: las siete y cincuenta y siete de la mañana", "output": "07:57"}
+{"instruction": "convierte esta hora en texto: siete horas y cincuenta y siete minutos", "output": "07:57"}
+{"instruction": "ahora mismo son las: las diez menos veintiocho de la mañana", "output": "09:32"}
+{"instruction": "¿cómo se dice esta hora?: las nueve y treinta y dos de la mañana", "output": "09:32"}
+{"instruction": "¿cómo se dice esta hora?: nueve horas y treinta y dos minutos", "output": "09:32"}
+{"instruction": "convierte esta hora en texto: las doce y cinco del mediodía", "output": "12:05"}
+{"instruction": "escribe la hora en palabras: las doce con cinco del mediodía", "output": "12:05"}
+{"instruction": "¿cómo se dice esta hora?: doce horas y cinco minutos", "output": "12:05"}
+{"instruction": "¿cómo se dice esta hora?: las once y nueve de la noche", "output": "23:09"}
+{"instruction": "¿cómo se dice esta hora?: las once con nueve de la noche", "output": "23:09"}
+{"instruction": "ahora mismo son las: veintitres horas y nueve minutos", "output": "23:09"}
+{"instruction": "escribe la hora en palabras: las doce con once a.m.", "output": "00:11"}
+{"instruction": "escribe la hora en palabras: las doce con once a.m.", "output": "00:11"}
+{"instruction": "escribe la hora en palabras: cero horas y once minutos", "output": "00:11"}
+{"instruction": "escribe la hora en palabras: las dos y cinco de la tarde", "output": "14:05"}
+{"instruction": "ahora mismo son las: las dos con cinco de la tarde", "output": "14:05"}
+{"instruction": "escribe la hora en palabras: catorce horas y cinco minutos", "output": "14:05"}
+{"instruction": "escribe la hora en palabras: las seis con diecinueve del mediodía", "output": "18:19"}
+{"instruction": "ahora mismo son las: las seis con diecinueve del mediodía", "output": "18:19"}
+{"instruction": "ahora mismo son las: dieciocho horas y diecinueve minutos", "output": "18:19"}
+{"instruction": "ahora mismo son las: las cinco con veintiseis p.m.", "output": "17:26"}
+{"instruction": "convierte esta hora en texto: las cinco con veintiseis p.m.", "output": "17:26"}
+{"instruction": "convierte esta hora en texto: diecisiete horas y veintiseis minutos", "output": "17:26"}
+{"instruction": "ahora mismo son las: las siete y veintisiete de la mañana", "output": "07:27"}
+{"instruction": "escribe la hora en palabras: las siete con veintisiete de la mañana", "output": "07:27"}
+{"instruction": "ahora mismo son las: siete horas y veintisiete minutos", "output": "07:27"}
+{"instruction": "escribe la hora en palabras: las uno menos doce a.m.", "output": "00:48"}
+{"instruction": "¿cómo se dice esta hora?: las doce con cuarenta y ocho a.m.", "output": "00:48"}
+{"instruction": "escribe la hora en palabras: cero horas y cuarenta y ocho minutos", "output": "00:48"}
+{"instruction": "ahora mismo son las: las uno con dieciocho del mediodía", "output": "13:18"}
+{"instruction": "¿cómo se dice esta hora?: las uno con dieciocho del mediodía", "output": "13:18"}
+{"instruction": "convierte esta hora en texto: trece horas y dieciocho minutos", "output": "13:18"}
+{"instruction": "escribe la hora en palabras: las ocho con veintiseis a.m.", "output": "20:26"}
+{"instruction": "¿cómo se dice esta hora?: las ocho y veintiseis a.m.", "output": "20:26"}
+{"instruction": "convierte esta hora en texto: veinte horas y veintiseis minutos", "output": "20:26"}
+{"instruction": "¿cómo se dice esta hora?: las cuatro y siete a.m.", "output": "04:07"}
+{"instruction": "convierte esta hora en texto: las cuatro y siete a.m.", "output": "04:07"}
+{"instruction": "ahora mismo son las: cuatro horas y siete minutos", "output": "04:07"}
+{"instruction": "convierte esta hora en texto: las once con veintiocho a.m.", "output": "23:28"}
+{"instruction": "escribe la hora en palabras: las once con veintiocho a.m.", "output": "23:28"}
+{"instruction": "escribe la hora en palabras: veintitres horas y veintiocho minutos", "output": "23:28"}
+{"instruction": "¿cómo se dice esta hora?: las tres y veinticinco p.m.", "output": "15:25"}
+{"instruction": "convierte esta hora en texto: las tres y veinticinco p.m.", "output": "15:25"}
+{"instruction": "¿cómo se dice esta hora?: quince horas y veinticinco minutos", "output": "15:25"}
+{"instruction": "ahora mismo son las: las uno menos uno p.m.", "output": "12:59"}
+{"instruction": "escribe la hora en palabras: las doce y cincuenta y nueve p.m.", "output": "12:59"}
+{"instruction": "¿cómo se dice esta hora?: medianoche", "output": "00:00"}
+{"instruction": "escribe la hora en palabras: el mediodía", "output": "12:00"}
